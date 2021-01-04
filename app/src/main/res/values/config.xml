@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="domain_name">"https://reqres.in/api/"</string>
+    <string name="font_normal">"fonts/OpenSans-Regular.ttf"</string>
+    <string name="font_bold">"fonts/OpenSans-SemiBold.ttf"</string>
+    <string name="font_button">"fonts/OpenSans-Regular.ttf"</string>
+</resources>
