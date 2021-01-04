@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
                         adapter = new DataAdapter(MainActivity.this,data);
                         recyclerView.setAdapter(adapter);
                     } catch (Exception e) {
-                        //ex
+                        //execute
                         e.printStackTrace();
                         progressDialog.dismiss();
                     }
